@@ -86,7 +86,7 @@ Cursos voltados para a área de TI.
 ##### Palestra "O Futuro do Trabalho"
 ###### PPG Tintas Renner
 ###### Conclusão: 2021
-###### Certificado [Aqui][hackathon]
+###### Certificado [Aqui][ppg]
 - Indústria 4.0
 - Nova Economia
 - Habilidades Comportamentais
