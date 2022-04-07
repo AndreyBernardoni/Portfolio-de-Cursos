@@ -75,7 +75,19 @@ Cursos voltados para a área de TI.
 - Procedimentos administrativos
 <br><br>
 
-##### Hackathon Online - Desafio para o Eenfrentamento da Pandemia do Coronavírus
+##### Desvendando Banco de Dados
+###### Instituto Federal Sul-rio-grandense
+###### Conclusão: 2022
+###### Certificado [Aqui][ifbd]
+- Comandos SQL
+- SGBD
+- Gerenciamento e Administração
+- Implementação
+<br><br>
+
+## Certificações/Palestras
+
+##### Hackathon Online - Desafio para o Eenfrentamento da Pandemia do Coronavírus (96h)
 ###### Instituto Federal Sul-rio-grandense
 ###### Conclusão: 2020
 ###### Certificado [Aqui][hackathon]
@@ -83,15 +95,25 @@ Cursos voltados para a área de TI.
 - Interação com a comunidade
 <br><br>
 
-##### Palestra "O Futuro do Trabalho"
-###### PPG Tintas Renner
+##### Palestra "O Futuro do Trabalho" (12h)
+###### Instituto Federal Sul-rio-grandense
 ###### Conclusão: 2021
-###### Certificado [Aqui][ppg]
+###### Certificado [Aqui][ft]
 - Indústria 4.0
 - Nova Economia
 - Habilidades Comportamentais
 - Networking
 - Entrevista de Emprego
+<br><br>
+
+##### Palestra "Na Criminalidade: Uma Vida à Sua Frente?" (4,5h)
+###### Instituto Federal Sul-rio-grandense
+###### Conclusão: 2022
+###### Certificado [Aqui][crim]
+- Criminalidade
+- Realidade Brasileira
+<br><br>
+
 
 [if]: <https://drive.google.com/file/d/1k2ecxttrV2Xmhg39PLeLKLmwNUYhsXqn/view?usp=sharing>
 [flutter]: <https://drive.google.com/file/d/118hihiH45CCoGBuRw-uiLi3AxngI81tw/view?usp=sharing>
@@ -99,5 +121,7 @@ Cursos voltados para a área de TI.
 [lgpd]: <https://drive.google.com/file/d/1Wg7mPV6JH5dkAFT5MvN4AYMVDQkl8whK/view?usp=sharing>
 [bd]: <https://drive.google.com/file/d/1oGYQ8S3K6Sul_bxw8X6z6qvKtSpFQhI1/view?usp=sharing>
 [hackathon]: <https://drive.google.com/file/d/1kKNi1u1pHHhxT7iECZz3-yvwpTXSCwfL/view?usp=sharing>
-[ppg]: <https://drive.google.com/file/d/1PkJJvWQ0zY_EvXxnml_gmRM8AtVYPFZx/view?usp=sharing>
+[ft]: <https://drive.google.com/file/d/1XF19I1M98zwU28rdfao0b16S4rnzAQK8/view?usp=sharing>
+[crim]: <https://drive.google.com/file/d/1w5qmASTmOy-aGxxaXaIeZh20q-3eQURk/view?usp=sharing>
+[ifbd]: <https://drive.google.com/file/d/1m2k9fwju-5AsYXOVPJ8Sq5xamJZbDqLj/view?usp=sharing>
 [all]: <https://drive.google.com/drive/folders/14tfGT3T4-TWA0qzpxFtDEjBPyTBS9ulY?usp=sharing>
