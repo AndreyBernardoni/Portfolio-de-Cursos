@@ -85,6 +85,37 @@ Cursos voltados para a área de TI.
 - Implementação
 <br><br>
 
+##### Conectar
+###### Rocketseat
+###### Conclusão: 2022
+###### Certificado [Aqui][rcktcon]
+- Hardware, Software, firmware e drivers
+- Propriedades e função de memória RAM, HD/SSD e mais
+- Pensamento computacional e lógico
+- Sistemas operacionais e configuração de ambiente
+<br><br>
+
+##### Fundamentar
+###### Rocketseat
+###### Conclusão: 2022
+###### Certificado [Aqui][rcktfun]
+- Back-end com JavaScript, Node.JS e SQL
+- Estrutura e gerenciamento de dados
+- Programação orientada a objetos
+- Front-end com foco em HTML, CSS, JavaScript e DOM
+- Terminal e HTTP
+<br><br>
+
+##### Especializar
+###### Rocketseat
+###### Conclusão: 2022
+###### Certificado [Aqui][rcktesp]
+- JavaScript Assíncrono: Callbacks, Promises e Async/Await
+- Funcionamento, construção e coonsumo de APIs
+- Front-end com os fundamentos de ReactJS
+- Introdução ao Typescript na programação web
+<br><br>
+
 ## Certificações/Palestras
 
 ##### Hackathon Online - Desafio para o Eenfrentamento da Pandemia do Coronavírus (96h)
@@ -124,4 +155,7 @@ Cursos voltados para a área de TI.
 [ft]: <https://drive.google.com/file/d/1XF19I1M98zwU28rdfao0b16S4rnzAQK8/view?usp=sharing>
 [crim]: <https://drive.google.com/file/d/1w5qmASTmOy-aGxxaXaIeZh20q-3eQURk/view?usp=sharing>
 [ifbd]: <https://drive.google.com/file/d/1m2k9fwju-5AsYXOVPJ8Sq5xamJZbDqLj/view?usp=sharing>
+[rcktcon]: <https://drive.google.com/file/d/1_PoYK1mUXJn6tlJt2JhS-RvXRcYQ4XRh/view?usp=sharing>
+[rcktfun]: <https://drive.google.com/file/d/1BNDM_urI3zlOLBKxLOAOqHuJR_uW-wa5/view?usp=sharing>
+[rcktesp]: <https://drive.google.com/file/d/1m2k9fwju-5AsYXOVPJ8Sq5xamJZbDqLj/view?usp=sharing>
 [all]: <https://drive.google.com/drive/folders/14tfGT3T4-TWA0qzpxFtDEjBPyTBS9ulY?usp=sharing>
